@@ -1,0 +1,37 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darksalmon;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+.linus{
+    width: 50%;
+    border: 5px double black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#quote{
+    font-weight: bold;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+footer{
+    margin-top: 60px;
+}
